@@ -6,9 +6,6 @@ Welcome to the Table Repository! This repository contains a collection of tables
 
 ## Repository Contents
 
-
-## Repository Contents
-
 Here's a quick overview of the tables available in this repository:
 
 1. **Algorithm Reference Variable Table**: A reference guide for translating logical conditions into algorithmic steps.
