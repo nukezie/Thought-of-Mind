@@ -1,4 +1,5 @@
 # Thought-of-Mind
+![DALL·E 2023-09-12 08 35 36 - Create a logo for the Thought of Mind project  The logo should feature a human brain intertwined with gears to symbolize innovation, creativity, and c](https://github.com/nukezie/Thought-of-Mind/assets/114205491/4d30977b-81f7-4665-ad23-a0f3e15ad762)
 
 # Table Repository
 
