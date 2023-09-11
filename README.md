@@ -1,6 +1,7 @@
 # Thought-of-Mind
-![DALL·E 2023-09-12 08 35 36 - Create a logo for the Thought of Mind project  The logo should feature a human brain intertwined with gears to symbolize innovation, creativity, and c](https://github.com/nukezie/Thought-of-Mind/assets/114205491/4d30977b-81f7-4665-ad23-a0f3e15ad762)
-
+<p align="center">
+  <img src="[https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true](https://github.com/nukezie/Thought-of-Mind/assets/114205491/4d30977b-81f7-4665-ad23-a0f3e15ad76)" alt="Sublime's custom image"/>
+</p>
 # Table Repository
 
 Welcome to the Table Repository! This repository contains a collection of tables and schemas designed to facilitate data organization, documentation, and integration in various projects. These tables cover a wide range of topics, including algorithmic references, communication servers, logic coding, and much more.
